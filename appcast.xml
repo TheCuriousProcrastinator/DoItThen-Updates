@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Do It Then</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 25 Sep 2026 13:34:43 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.0
+
+Initial development release.
+
+- Calendar and Reminders planning
+- Drag-and-drop scheduling
+- Theme support
+- Automatic updates with Sparkle
+]]></description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.0/DoItThen-0.1.0.zip" length="1320992" type="application/octet-stream" sparkle:edSignature="Pkp2I9uk5TQMo9gvIfe5InEHKkZDZUT27erwJgezmRdCBivXI/WLJ5q+BdvYLqJ1G1j/DtaIUYqgKYYBR1pBAA=="/>
+        </item>
+    </channel>
+</rss>
