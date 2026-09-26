@@ -3,18 +3,18 @@
     <channel>
         <title>Do It Then</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Fri, 25 Sep 2026 14:59:21 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Fri, 25 Sep 2026 20:19:38 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.1
+            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.2
 
-- Make release workflow reliable
-- Add day planning and recurring reminder scheduling
+- Add Quick Add, task editing, and calendar controls
+- Add global undo and redo
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.1/DoItThen-0.1.1.zip" length="4768557" type="application/octet-stream" sparkle:edSignature="YP+cwk+3tz2Fg0dpIyDKgF7u/plucpoGuuKvmaPvG7FY6BS0+P3i8ifh3v5gIcF0JvL6clVGhbSbS1uz4PuiAQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.2/DoItThen-0.1.2.zip" length="5299511" type="application/octet-stream" sparkle:edSignature="aWOjCC4+10YbhSvTXb5odSZ7ogrV26JxxwJ+1uWNK+CcNDUIxajnSAdbW90AO4K7vnrWZ0PgCsg/63Zsidk9DA=="/>
         </item>
     </channel>
 </rss>
