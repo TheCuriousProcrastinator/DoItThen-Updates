@@ -3,22 +3,31 @@
     <channel>
         <title>Do It Then</title>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Sun, 27 Sep 2026 09:23:13 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.7</title>
+            <pubDate>Sun, 27 Sep 2026 15:02:28 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.6
+            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.7
 
-- Show Reminder notes and make links directly clickable in task rows.
-- Refresh timed event cards and calendar drop destinations.
-- Make calendar dragging visually continuous with stable lifted previews and preserved grab offset.
-- Make repeated cross-day edge navigation symmetric and cancel invalid edge releases back to the original day.
-- Allow existing calendar events to move into past dates with the normal outlined drop preview.
-- Refine primary-action contrast and scheduling-duration safeguards.
+- Mark sidebar transfer work release-ready
+- Start sidebar motion before EventKit persistence
+- Tighten sidebar transfer motion
+- Speed up sidebar transfer animation
+- Handle shared reminder list moves
+- Smooth sidebar transfers and animate undo
+- Animate sidebar task transfer
+- Polish sidebar reminder drag settling
+- Move reminders with sidebar drops
+- Outline reminder rows on hover
+- Split Quick Add layout for compiler
+- Fix Quick Add overlay type checking
+- Refresh floating Quick Add overlay
+- Refresh Reminders immediately after permission changes
+- Render birthdays outside the hourly timeline
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.6/DoItThen-0.1.6.zip" length="6008384" type="application/octet-stream" sparkle:edSignature="i2WMSKy99scPZ+a10qOXhAXAufmhXXNTRV/PVYYqTDwZiltbxdkzR7xx3QQoGUGLOnHC8Zo1lb2sq1SbNrn5DA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.7/DoItThen-0.1.7.zip" length="6116926" type="application/octet-stream" sparkle:edSignature="NrJ/RI4BJedMEbTAXBuXru6XSowlenDUCYi+mB0UhITXkVikmliVm7Mu17VflblIa3fpz6BS9XVT9rxZ2siLBg=="/>
         </item>
     </channel>
 </rss>
