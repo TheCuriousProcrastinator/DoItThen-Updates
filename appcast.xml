@@ -3,22 +3,22 @@
     <channel>
         <title>Do It Then</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Sat, 26 Sep 2026 19:39:43 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Sun, 27 Sep 2026 09:23:13 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.5
+            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.6
 
-- Add Week, Month, and Year calendar views
-- Replace Olive Studio with Mint Candy
-- Improve contrast and visual hierarchy across all themes
-- Make adjacent-month dates and calendar events easier to distinguish
-- Add semantic theme colors and macOS Increase Contrast support
-- Soften the Today marker while preserving accessible contrast
+- Show Reminder notes and make links directly clickable in task rows.
+- Refresh timed event cards and calendar drop destinations.
+- Make calendar dragging visually continuous with stable lifted previews and preserved grab offset.
+- Make repeated cross-day edge navigation symmetric and cancel invalid edge releases back to the original day.
+- Allow existing calendar events to move into past dates with the normal outlined drop preview.
+- Refine primary-action contrast and scheduling-duration safeguards.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.5/DoItThen-0.1.5.zip" length="5941456" type="application/octet-stream" sparkle:edSignature="vVq3Jh6Wy7HncV/MQTkxW9fYmLB/7qZP08RiWoxO3UBm90/Ur2UQBLPlF7GCpflkQR/TU1srDEirPf7hj8tQDQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.6/DoItThen-0.1.6.zip" length="6008384" type="application/octet-stream" sparkle:edSignature="i2WMSKy99scPZ+a10qOXhAXAufmhXXNTRV/PVYYqTDwZiltbxdkzR7xx3QQoGUGLOnHC8Zo1lb2sq1SbNrn5DA=="/>
         </item>
     </channel>
 </rss>
