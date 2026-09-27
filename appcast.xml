@@ -1,33 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Do It Then</title>
+        <title>Doit Then</title>
         <item>
-            <title>0.1.7</title>
-            <pubDate>Sun, 27 Sep 2026 15:02:28 -0400</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <title>0.1.8</title>
+            <pubDate>Sun, 27 Sep 2026 17:46:07 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Do It Then 0.1.7
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.8
 
-- Mark sidebar transfer work release-ready
-- Start sidebar motion before EventKit persistence
-- Tighten sidebar transfer motion
-- Speed up sidebar transfer animation
-- Handle shared reminder list moves
-- Smooth sidebar transfers and animate undo
-- Animate sidebar task transfer
-- Polish sidebar reminder drag settling
-- Move reminders with sidebar drops
-- Outline reminder rows on hover
-- Split Quick Add layout for compiler
-- Fix Quick Add overlay type checking
-- Refresh floating Quick Add overlay
-- Refresh Reminders immediately after permission changes
-- Render birthdays outside the hourly timeline
+- Rebrand the app to **Doit Then** while preserving the previously approved app icon.
+- Add local groups for Apple Reminders lists, with collapse/expand and aggregate group views.
+- Add inline **New List** and **New Group** creation.
+- Add list/group drag organization, including moving lists into and out of groups and reordering groups.
+- Add inline rename and delete actions for lists and groups. Deleting a group keeps its lists.
+- Add global Undo/Redo for sidebar organization and list/group rename operations.
+- Smooth sidebar drag settling and animated Undo/Redo.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.7/DoItThen-0.1.7.zip" length="6116926" type="application/octet-stream" sparkle:edSignature="NrJ/RI4BJedMEbTAXBuXru6XSowlenDUCYi+mB0UhITXkVikmliVm7Mu17VflblIa3fpz6BS9XVT9rxZ2siLBg=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.8/DoItThen-0.1.8.zip" length="6283916" type="application/octet-stream" sparkle:edSignature="e+eBfhxJrfbH06+giBwdhYp4C/MlqxlJntmYUgOlLLpOlm1slzNFCkHUsjfwjYM1xPF/mEHRYucV4UfaIBMYCQ=="/>
         </item>
     </channel>
 </rss>
