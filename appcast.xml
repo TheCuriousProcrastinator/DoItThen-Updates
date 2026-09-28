@@ -3,36 +3,31 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>0.1.10</title>
-            <pubDate>Mon, 28 Sep 2026 09:26:26 -0400</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <title>0.1.11</title>
+            <pubDate>Mon, 28 Sep 2026 11:54:08 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.10
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.11
 
-- Polish sidebar insertion indicator
-- Use continuous sidebar drag tracking
-- Smooth sidebar reorder feedback
-- Refine sidebar reorder feedback
-- Use static sidebar list reorder
-- Replace list reorder with local gesture
-- Smooth list drop settling
-- Stabilize live list reorder animation
-- Smooth live sidebar list reordering
-- Preview list reorder live and edit colors
-- Match Inbox label in task list menu
-- Fix global task undo and list menu order
-- Record Upcoming editor validation
-- Rename Upcoming and unfold task editor
-- Increase scheduled section header size
-- Record task context menu validation
-- Preserve reminder state when moving lists
-- Add focused reminder context menu
-- Record 0.1.9 release recovery validation
-- Repair 0.1.9 release handoff
+- Refresh handoff before release
+- Make undo reveal scroll continuous
+- Smooth offscreen undo reveal without jump
+- Smoothly reveal offscreen undo destination
+- Stop calendar scroll jump on move undo
+- Fix undo race during calendar drop settle
+- Align day drag motion with week view
+- Unify appearance controls and theme previews
+- Unify scheduling recognition across task entry
+- Prioritize latest natural date while editing
+- Refine inline task editing interaction
+- Transform task row into inline editor
+- Polish inline editor motion and Escape
+- Expand task notes and add list color palette
+- Update handoff for 0.1.10 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.10/DoItThen-0.1.10.zip" length="6413735" type="application/octet-stream" sparkle:edSignature="OO7jgiq80nZ1A1wIXryaT1vmu7xeiOuj7UrJ9Y7e2KDEHA7sqYZ3JYr5A8pcgsozffa34VNksmtlmAba23yYDw=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.11/DoItThen-0.1.11.zip" length="6449753" type="application/octet-stream" sparkle:edSignature="m6D28Le20H4Q3X+L5toXhPQ0fvu4H2gXbC+xnHecQ01vg7LY/UWHMc8Zyr+/B4oUQ0r1ujMtno3T8WN+ZSVfAw=="/>
         </item>
     </channel>
 </rss>
