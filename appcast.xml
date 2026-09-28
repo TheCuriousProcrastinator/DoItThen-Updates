@@ -3,35 +3,36 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>0.1.9</title>
-            <pubDate>Sun, 27 Sep 2026 20:26:43 -0400</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <title>0.1.10</title>
+            <pubDate>Mon, 28 Sep 2026 09:26:26 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.9
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.10
 
-- Record task scroller validation
-- Smooth task scrolling and remove focus outline
-- Record Scheduled UI validation
-- Polish Scheduled and sidebar UI
-- Record Scheduled grouping validation
-- Group Scheduled reminders by date
-- Record Day drop flash validation
-- Prevent Day drop preview flash
-- Promote verified calendar drag fixes
-- Record Week AppKit validation
-- Rebuild Week drag preview in AppKit
-- Record Week drag validation
-- Trim Week drag hot path
-- Stabilize Week drag rendering
-- Fix Week drag target function scope
-- Rebuild Week drag targeting around AppKit position
-- Smooth Week drag preview and restore edge arrows
-- Polish Week and Month drop settling
-- Update handoff for 0.1.8 release
+- Polish sidebar insertion indicator
+- Use continuous sidebar drag tracking
+- Smooth sidebar reorder feedback
+- Refine sidebar reorder feedback
+- Use static sidebar list reorder
+- Replace list reorder with local gesture
+- Smooth list drop settling
+- Stabilize live list reorder animation
+- Smooth live sidebar list reordering
+- Preview list reorder live and edit colors
+- Match Inbox label in task list menu
+- Fix global task undo and list menu order
+- Record Upcoming editor validation
+- Rename Upcoming and unfold task editor
+- Increase scheduled section header size
+- Record task context menu validation
+- Preserve reminder state when moving lists
+- Add focused reminder context menu
+- Record 0.1.9 release recovery validation
+- Repair 0.1.9 release handoff
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.9/DoItThen-0.1.9.zip" length="6313894" type="application/octet-stream" sparkle:edSignature="YdZiIECOkCvDhDKAVKhPbDd5xbvabZ2zwNoN/uhmvfsz6NqsbKWPcv5T2RrwxBNeJn/vBN3I8zXd97HwvOghCA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.10/DoItThen-0.1.10.zip" length="6413735" type="application/octet-stream" sparkle:edSignature="OO7jgiq80nZ1A1wIXryaT1vmu7xeiOuj7UrJ9Y7e2KDEHA7sqYZ3JYr5A8pcgsozffa34VNksmtlmAba23yYDw=="/>
         </item>
     </channel>
 </rss>
