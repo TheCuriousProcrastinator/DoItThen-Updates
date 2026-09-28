@@ -3,23 +3,35 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Sun, 27 Sep 2026 17:46:07 -0400</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Sun, 27 Sep 2026 20:26:43 -0400</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.8
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 0.1.9
 
-- Rebrand the app to **Doit Then** while preserving the previously approved app icon.
-- Add local groups for Apple Reminders lists, with collapse/expand and aggregate group views.
-- Add inline **New List** and **New Group** creation.
-- Add list/group drag organization, including moving lists into and out of groups and reordering groups.
-- Add inline rename and delete actions for lists and groups. Deleting a group keeps its lists.
-- Add global Undo/Redo for sidebar organization and list/group rename operations.
-- Smooth sidebar drag settling and animated Undo/Redo.
+- Record task scroller validation
+- Smooth task scrolling and remove focus outline
+- Record Scheduled UI validation
+- Polish Scheduled and sidebar UI
+- Record Scheduled grouping validation
+- Group Scheduled reminders by date
+- Record Day drop flash validation
+- Prevent Day drop preview flash
+- Promote verified calendar drag fixes
+- Record Week AppKit validation
+- Rebuild Week drag preview in AppKit
+- Record Week drag validation
+- Trim Week drag hot path
+- Stabilize Week drag rendering
+- Fix Week drag target function scope
+- Rebuild Week drag targeting around AppKit position
+- Smooth Week drag preview and restore edge arrows
+- Polish Week and Month drop settling
+- Update handoff for 0.1.8 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.8/DoItThen-0.1.8.zip" length="6283916" type="application/octet-stream" sparkle:edSignature="e+eBfhxJrfbH06+giBwdhYp4C/MlqxlJntmYUgOlLLpOlm1slzNFCkHUsjfwjYM1xPF/mEHRYucV4UfaIBMYCQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v0.1.9/DoItThen-0.1.9.zip" length="6313894" type="application/octet-stream" sparkle:edSignature="YdZiIECOkCvDhDKAVKhPbDd5xbvabZ2zwNoN/uhmvfsz6NqsbKWPcv5T2RrwxBNeJn/vBN3I8zXd97HwvOghCA=="/>
         </item>
     </channel>
 </rss>
