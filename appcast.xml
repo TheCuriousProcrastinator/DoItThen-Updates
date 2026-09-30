@@ -3,22 +3,18 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 30 Sep 2026 10:24:19 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Wed, 30 Sep 2026 15:04:30 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.1
 
-- Refine calendar event editing, date/time controls, and calendar preferences.
-- Add configurable default task duration with presets and custom durations.
-- Add persistent previous/next calendar controls and unified drag-edge navigation.
-- Add fast direct Day/Week event resizing from the bottom edge with 15-minute snapping.
-- Move the detailed calendar inspector to right-click and simplify left-click selection.
-- Improve calendar drag/drop behavior, visual stability, Undo/Redo, and scheduling interactions.
+- Use native reminder scheduling and speed task interactions
+- Update handoff for 1.0.0 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.0/DoItThen-1.0.0.zip" length="6931169" type="application/octet-stream" sparkle:edSignature="hxx4huM6mYqga/sQrP/RB16YVRuSDKKJWHNhcOnRoZERGprQYrJqYFsBO2WmFW+muKYBwAWYAin2TMau+WMoCA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.1/DoItThen-1.0.1.zip" length="6949891" type="application/octet-stream" sparkle:edSignature="amZEiOWaVWuN6dBpUlzusw5hkfQn8tpRBQpwxDtfwsIVZgrrB+OR5okDxQg08SmGuBFD2vcJ7Qv2NLpaK4W1BQ=="/>
         </item>
     </channel>
 </rss>
