@@ -3,25 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Sat, 03 Oct 2026 19:20:59 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Sun, 04 Oct 2026 15:17:32 -0400</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.5
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.6
 
-- Polish task editing and native context menus
-- Polish reminder list pickers
-- Add task Duplicate action
-- Remove Planner theme selector
-- Polish Appearance settings
-- Add Focus Timer auto-start option
-- Improve Quick Add natural date handling
-- Smooth task and calendar scrolling
-- Fix release handoff updater after 1.0.4
+- Add Focus start control and timer chime
+- Polish inline task editor metadata
+- Update handoff for 1.0.5 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.5/DoItThen-1.0.5.zip" length="7453679" type="application/octet-stream" sparkle:edSignature="SU+ymgf+ahw55xO5q2ywHPtFb0koXm4XvTBRpQXOKpFk9Zphb1KtCK8ANHgiQd+HnpGa3sG8NmxPoavSW/yhCg=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.6/DoItThen-1.0.6.zip" length="7511428" type="application/octet-stream" sparkle:edSignature="TIxf1UAfUFHqn03Au9mtIODNau+6j1KfBaDTM74DpJJYDUpWxsJcnXUJmeqT+AYTL6oum9V6G7DqUor43whoAA=="/>
         </item>
     </channel>
 </rss>
