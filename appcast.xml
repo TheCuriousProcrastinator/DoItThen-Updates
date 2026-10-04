@@ -3,19 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sun, 04 Oct 2026 15:17:32 -0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Sun, 04 Oct 2026 19:50:48 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.6
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.7
 
-- Add Focus start control and timer chime
-- Polish inline task editor metadata
-- Update handoff for 1.0.5 release
+- Add Chrome extension availability check-in
+- Document planner pane resize validation
+- Update handoff for 1.0.6 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.6/DoItThen-1.0.6.zip" length="7511428" type="application/octet-stream" sparkle:edSignature="TIxf1UAfUFHqn03Au9mtIODNau+6j1KfBaDTM74DpJJYDUpWxsJcnXUJmeqT+AYTL6oum9V6G7DqUor43whoAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.7/DoItThen-1.0.7.zip" length="7562393" type="application/octet-stream" sparkle:edSignature="dL1uwa9ChUFSOCOV8sJEgTKEadRC2sZFXJhQb0F5zpSHzOEaYhLVe042ubMK8/KjGTfaIK9pgIJMOjQ/U2nGCw=="/>
         </item>
     </channel>
 </rss>
