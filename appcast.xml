@@ -3,20 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Tue, 06 Oct 2026 13:05:26 -0400</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Tue, 06 Oct 2026 14:46:02 -0400</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.10
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.11
 
-- Added a unified Calendars section in Settings for per-calendar visibility and Apple Calendar color management.
-- Calendar visibility now stays synchronized between Settings and the toolbar Calendars popup.
-- Calendar colors can be changed individually with curated presets, including neutral gray options.
-- Calendar lists and the event Calendar chooser are grouped by provider/account for clearer navigation.
+- Make Calendar event identity resilient
+- Show Sparkle update check status
+- Update handoff for 1.0.10 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.10/DoItThen-1.0.10.zip" length="7674223" type="application/octet-stream" sparkle:edSignature="dB5ldwyslm6TkR9XDgh1pyOPrSbw9gX2ad75OhWSa717ugJlx530q6pb0WoibkcIEAEXWqOcFQWUyGeuzWsnBg=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.11/DoItThen-1.0.11.zip" length="7678867" type="application/octet-stream" sparkle:edSignature="nFyt/zWMpdWmakK8E9TwWSt7MGbFTY9/URalQgPp0KIcLAe7YQG4GF2li/+iW1nH840a4f14O7WToJoHZi2bAQ=="/>
         </item>
     </channel>
 </rss>
