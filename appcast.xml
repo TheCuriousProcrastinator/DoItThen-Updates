@@ -3,18 +3,21 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.8</title>
-            <pubDate>Sun, 04 Oct 2026 20:04:46 -0400</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <title>1.0.9</title>
+            <pubDate>Tue, 06 Oct 2026 08:52:08 -0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.8
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.9
 
-- Add launch at login setting
-- Update handoff for 1.0.7 release
+- Fixed recurring Reminders sometimes leaving an extra future occurrence after Undo or restoring from Calendar.
+- Improved Reminder and Calendar reliability during rapid refreshes, failed saves, and Undo/Redo.
+- Duplicate now preserves Reminder details, and Quick Add keeps your draft if saving fails.
+- Fixed cross-day scheduling conflict detection and unscheduling alert cleanup.
+- Fixed task context-menu actions and removed obsolete scheduling and debug code.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.8/DoItThen-1.0.8.zip" length="7572247" type="application/octet-stream" sparkle:edSignature="zRDY9E/8m7zt39lSGmns/wYNxHWYSHMGmoPbQs/+Mqt5B4fVNsMPZKtLSqO3NALCHjTIzxnRdjC+5NGmJ730Ag=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.9/DoItThen-1.0.9.zip" length="7572116" type="application/octet-stream" sparkle:edSignature="O9xTu0wUoiUfRJ9RWKEUn0rvzXo64L7yfjfnkZ0m9SJ0qEjDLqF7Nyo/c9mwXO/36JbK2T5C98HPfLKhUPzpDQ=="/>
         </item>
     </channel>
 </rss>
