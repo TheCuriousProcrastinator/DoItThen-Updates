@@ -3,19 +3,17 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.11</title>
-            <pubDate>Tue, 06 Oct 2026 14:46:02 -0400</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <title>1.0.12</title>
+            <pubDate>Tue, 06 Oct 2026 15:33:01 -0400</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.11
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.12
 
-- Make Calendar event identity resilient
-- Show Sparkle update check status
-- Update handoff for 1.0.10 release
+- Refresh externally edited Calendar events faster.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.11/DoItThen-1.0.11.zip" length="7678867" type="application/octet-stream" sparkle:edSignature="nFyt/zWMpdWmakK8E9TwWSt7MGbFTY9/URalQgPp0KIcLAe7YQG4GF2li/+iW1nH840a4f14O7WToJoHZi2bAQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.12/DoItThen-1.0.12.zip" length="7678595" type="application/octet-stream" sparkle:edSignature="QZItfB5EQdQTRz//KT1ND0uA1rQ+DzT/094xxGoNzLFeolf/oYmnfAZKMPLfh72tIFNZlx9md0gwVscg55wCCQ=="/>
         </item>
     </channel>
 </rss>
