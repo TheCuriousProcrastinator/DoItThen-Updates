@@ -3,21 +3,20 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.9</title>
-            <pubDate>Tue, 06 Oct 2026 08:52:08 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>1.0.10</title>
+            <pubDate>Tue, 06 Oct 2026 13:05:26 -0400</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.9
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.10
 
-- Fixed recurring Reminders sometimes leaving an extra future occurrence after Undo or restoring from Calendar.
-- Improved Reminder and Calendar reliability during rapid refreshes, failed saves, and Undo/Redo.
-- Duplicate now preserves Reminder details, and Quick Add keeps your draft if saving fails.
-- Fixed cross-day scheduling conflict detection and unscheduling alert cleanup.
-- Fixed task context-menu actions and removed obsolete scheduling and debug code.
+- Added a unified Calendars section in Settings for per-calendar visibility and Apple Calendar color management.
+- Calendar visibility now stays synchronized between Settings and the toolbar Calendars popup.
+- Calendar colors can be changed individually with curated presets, including neutral gray options.
+- Calendar lists and the event Calendar chooser are grouped by provider/account for clearer navigation.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.9/DoItThen-1.0.9.zip" length="7572116" type="application/octet-stream" sparkle:edSignature="O9xTu0wUoiUfRJ9RWKEUn0rvzXo64L7yfjfnkZ0m9SJ0qEjDLqF7Nyo/c9mwXO/36JbK2T5C98HPfLKhUPzpDQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.10/DoItThen-1.0.10.zip" length="7674223" type="application/octet-stream" sparkle:edSignature="dB5ldwyslm6TkR9XDgh1pyOPrSbw9gX2ad75OhWSa717ugJlx530q6pb0WoibkcIEAEXWqOcFQWUyGeuzWsnBg=="/>
         </item>
     </channel>
 </rss>
