@@ -3,19 +3,20 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.15</title>
-            <pubDate>Sun, 11 Oct 2026 14:23:03 -0400</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <title>1.0.16</title>
+            <pubDate>Tue, 13 Oct 2026 19:36:55 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.15
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.16
 
-- feat: add Something for Tomorrow sharing
-- docs: standardize Vibe Coding local workspace and handoff policy
-- Update handoff for 1.0.14 release
+- Add validated Calendar Mirror with destination recovery
+- Add validated offline license verification
+- Add validated Lemon Squeezy license settings
+- Update handoff for 1.0.15 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.15/DoItThen-1.0.15.zip" length="7768138" type="application/octet-stream" sparkle:edSignature="+3wNkES8YnNs4oK0cyB8mIbCGcCayr9FEzOGlratbWqvzgHMfDrQKAsuiZN8FOWtOpmWTy16syX21DTk11xJDg=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.16/DoItThen-1.0.16.zip" length="7916272" type="application/octet-stream" sparkle:edSignature="tUDUNuGA0cI68V91jO5z+0zeCA8G21Y7txVmI456B+CmGaPRQ24ovVU1yQVNKh9qJNdVrFtgXamAylflhDyDCg=="/>
         </item>
     </channel>
 </rss>
