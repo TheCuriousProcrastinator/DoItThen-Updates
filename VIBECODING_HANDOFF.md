@@ -1,4 +1,4 @@
-# Do It Then Updates - Development Handoff
+# Doit Then Updates - Development Handoff
 
 ## Publish/release command - standing authorization (2026-10-13)
 
@@ -11,7 +11,7 @@
 - This rule takes precedence over older handoff wording that might suggest an additional user confirmation after validation. It does not override mandatory validation or source-of-truth checks.
 
 
-**Updated:** 2026-10-02
+**Updated:** 2026-10-13
 
 ## Shared Vibe Coding workflow rules (2026-10-08)
 
@@ -37,9 +37,9 @@
 
 ## Project
 
-`DoItThen-Updates` is the public Sparkle update-feed and release-asset repository for Do It Then.
+`DoItThen-Updates` is the public Sparkle update-feed and release-asset repository for Doit Then.
 
-It is not the Do It Then application source repository.
+It is not the Doit Then application source repository.
 
 ## Repository
 
@@ -52,22 +52,24 @@ Always verify the repository HEAD and live appcast before modifying release meta
 
 ## Current verified update-feed state
 
-At this handoff:
+Verified against `main/appcast.xml` and published GitHub release on **2026-10-13**:
 
-- product: Do It Then
-- latest version: **1.0.3**
-- latest build: **17**
+- product: Doit Then
+- latest version: **1.0.17**
+- latest build: **31**
 - minimum macOS: **14.0**
 - architecture requirement: **arm64**
-- release asset: `DoItThen-1.0.3.zip`
-- release tag referenced by appcast: `v1.0.3`
+- release asset: `DoItThen-1.0.17.zip`
+- release tag referenced by appcast: `v1.0.17`
+- release ZIP SHA-256: `f5b004209a1fad2a8f305149f391d7ef70ad8a0a6d6c907988826ba2d36328b5`
+- signed Sparkle enclosure matches the `v1.0.17` GitHub Release ZIP; source repository's published version is likewise **1.0.17 (31)**.
 
 ## Repository role
 
 This repository hosts:
 
 - Sparkle `appcast.xml`
-- Do It Then release tags
+- Doit Then release tags
 - downloadable release ZIPs
 
 The application source lives in:
@@ -84,15 +86,15 @@ Keep it that way unless the user explicitly requests a manual clean-environment 
 
 Do not introduce automatic Actions for pushes, pull requests, tags, schedules, release publication, or appcast updates.
 
-Do It Then development, builds, tests, signing, notarization, packaging, and release validation are authoritative on the user's local Mac.
+Doit Then development, builds, tests, signing, notarization, packaging, and release validation are authoritative on the user's local Mac.
 
-Publishing a Do It Then release does not depend on GitHub Actions.
+Publishing a Doit Then release does not depend on GitHub Actions.
 
 ## Release workflow
 
-For a Do It Then release:
+For a Doit Then release:
 
-1. validate the exact application change locally in the Do It Then source checkout
+1. validate the exact application change locally in the Doit Then source checkout
 2. build, sign, notarize, package, and verify locally as applicable
 3. commit and push the exact validated source/release changes
 4. create and push the release tag
@@ -121,4 +123,4 @@ It does not change `appcast.xml`, README content, releases, assets, tags, signat
 
 ## Next task
 
-Before the next Do It Then release, verify this handoff against both the Do It Then source repository and the current live update repository.
+Before the next Doit Then release, verify this handoff against both the Doit Then source repository and the current live update repository.
