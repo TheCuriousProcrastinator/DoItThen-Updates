@@ -3,18 +3,21 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.17</title>
-            <pubDate>Tue, 13 Oct 2026 19:59:57 -0400</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <title>1.0.18</title>
+            <pubDate>Thu, 15 Oct 2026 11:36:28 -0400</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.17
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.18
 
-- Improve Calendar and Reminders permission onboarding
-- Update handoff for 1.0.16 release
+- Added license activation for the one-time purchase.
+- Added license verification and deactivation in Settings.
+- Added up to 14 days of offline access after successful verification.
+- Improved handling of revoked activations and license recovery.
+- Improved Calendar and Reminders permission handling.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.17/DoItThen-1.0.17.zip" length="7925088" type="application/octet-stream" sparkle:edSignature="chEsbm+Z4dVefkRo0W0B0u8+8ZkAhJ4mwyK6j76W2LT19YUTYYXSLR6fZ3N8I2qvIIjXWMrJEQDEji0lEMBvAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.18/DoItThen-1.0.18.zip" length="8006239" type="application/octet-stream" sparkle:edSignature="aPeuJulBGAYvH1L3dCloe4nSqinMCyFXvEG3FODvujuSV8dYsexxUJhq8weDjT3oLNmGdhiYrEqG38SgYXQdCg=="/>
         </item>
     </channel>
 </rss>
