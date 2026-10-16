@@ -3,19 +3,24 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.20</title>
-            <pubDate>Thu, 15 Oct 2026 20:30:36 -0400</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <title>1.0.21</title>
+            <pubDate>Fri, 16 Oct 2026 07:21:33 -0400</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.20
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.21
 
-- Fix planner headers disappearing when resizing with an empty Today list.
-- Keep Something for Tomorrow accessible in smaller windows.
-- Preserve the original minimum window size.
+- Improved Calendar and Reminders first-run permission handling.
+- Added recovery for incomplete or restricted permissions.
+- Refined the compact task-pane header.
+- Improved license-key entry with automatic focus and Return-to-activate.
+- Preserved existing planner, licensing, and Calendar behavior.
+
+The permission changes passed local testing. Onboarding on the
+previously affected external Mac remains to be verified.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.20/DoItThen-1.0.20.zip" length="8042263" type="application/octet-stream" sparkle:edSignature="XUWw+QayoNzTkpLLuevHCCgJTHvnPfwv80FICNQTT9/86Tq6caYx665V3OK74XmABv45M/16oH5FdvEDHkyuDA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.21/DoItThen-1.0.21.zip" length="8066401" type="application/octet-stream" sparkle:edSignature="8ngxl0LXkfLRIi8NfeZKz/zL348Qm3kgzC+mWVal0uyQuV5meVrLG3Kq9VOthZYwNstB015Fe/wANjuxlUsCAQ=="/>
         </item>
     </channel>
 </rss>
