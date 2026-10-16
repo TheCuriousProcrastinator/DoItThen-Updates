@@ -3,21 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.19</title>
-            <pubDate>Thu, 15 Oct 2026 19:06:50 -0400</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+            <title>1.0.20</title>
+            <pubDate>Thu, 15 Oct 2026 20:30:36 -0400</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.19
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.20
 
-- Persist Something for Tomorrow rotation with 105 quotations
-- Unify planner drag cursors and fix reorder preview handoff
-- Refine sidebar selection and date shortcut icons
-- Improve planner readability and week layout
-- Update handoff for 1.0.18 release
+- Fix planner headers disappearing when resizing with an empty Today list.
+- Keep Something for Tomorrow accessible in smaller windows.
+- Preserve the original minimum window size.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.19/DoItThen-1.0.19.zip" length="8040864" type="application/octet-stream" sparkle:edSignature="Qdhd89Nwzx3sLwgBFaRISgfzT6N1K9UxvjvdBxcEZI2MYMl0QS5Sh0NkeG3+FpmzOuOiAD+q7b06I/i2MTqOAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.20/DoItThen-1.0.20.zip" length="8042263" type="application/octet-stream" sparkle:edSignature="XUWw+QayoNzTkpLLuevHCCgJTHvnPfwv80FICNQTT9/86Tq6caYx665V3OK74XmABv45M/16oH5FdvEDHkyuDA=="/>
         </item>
     </channel>
 </rss>
