@@ -3,24 +3,22 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.21</title>
-            <pubDate>Fri, 16 Oct 2026 07:21:33 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <title>1.0.22</title>
+            <pubDate>Sat, 17 Oct 2026 09:39:40 -0400</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.21
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.22
 
-- Improved Calendar and Reminders first-run permission handling.
-- Added recovery for incomplete or restricted permissions.
-- Refined the compact task-pane header.
-- Improved license-key entry with automatic focus and Return-to-activate.
-- Preserved existing planner, licensing, and Calendar behavior.
+- Improved recovery after granting Calendar and Reminders access.
+- Added privacy-conscious permission diagnostics to help investigate onboarding failures.
+- Improved guidance when macOS continues reporting an undetermined permission state.
+- Preserved existing planner, Calendar, Reminders, and licensing behavior.
 
-The permission changes passed local testing. Onboarding on the
-previously affected external Mac remains to be verified.
+An intermittent first-time permission issue remains under investigation. If it persists, diagnostic logs can help identify the cause.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.21/DoItThen-1.0.21.zip" length="8066401" type="application/octet-stream" sparkle:edSignature="8ngxl0LXkfLRIi8NfeZKz/zL348Qm3kgzC+mWVal0uyQuV5meVrLG3Kq9VOthZYwNstB015Fe/wANjuxlUsCAQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.22/DoItThen-1.0.22.zip" length="8073052" type="application/octet-stream" sparkle:edSignature="PQBUNm6DTKcJVwuaOWW/fveJOD+JHiRPsQJLwJf209mOJRx4O5xBppOEShBLx6uaGSvAaz+/V5gyW/9R9eEJBw=="/>
         </item>
     </channel>
 </rss>
