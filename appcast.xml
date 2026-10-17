@@ -3,22 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.22</title>
-            <pubDate>Sat, 17 Oct 2026 09:39:40 -0400</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+            <title>1.0.23</title>
+            <pubDate>Sat, 17 Oct 2026 17:08:38 -0400</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.22
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.23
 
-- Improved recovery after granting Calendar and Reminders access.
-- Added privacy-conscious permission diagnostics to help investigate onboarding failures.
-- Improved guidance when macOS continues reporting an undetermined permission state.
-- Preserved existing planner, Calendar, Reminders, and licensing behavior.
-
-An intermittent first-time permission issue remains under investigation. If it persists, diagnostic logs can help identify the cause.
+- Improved first-time Calendar and Reminders connection when macOS reports an outdated permission status after access has been granted.
+- Added a narrowly scoped recovery path for successful permission requests.
+- Preserved handling of denied and restricted permissions.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.22/DoItThen-1.0.22.zip" length="8073052" type="application/octet-stream" sparkle:edSignature="PQBUNm6DTKcJVwuaOWW/fveJOD+JHiRPsQJLwJf209mOJRx4O5xBppOEShBLx6uaGSvAaz+/V5gyW/9R9eEJBw=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.23/DoItThen-1.0.23.zip" length="8073218" type="application/octet-stream" sparkle:edSignature="0PW6wvZUA516KIcwX6eGRW6EDVOwojihiPqWRWOBLJJEUB588t/ujMfuYHSrP2vwfAbxAjnZW9kZ0tQLEOF5DQ=="/>
         </item>
     </channel>
 </rss>
