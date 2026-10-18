@@ -50,19 +50,21 @@ It is not the Doit Then application source repository.
 
 Always verify the repository HEAD and live appcast before modifying release metadata.
 
-## Current verified update-feed state
+## Current verified update-feed state — 2026-10-18
 
-Verified against `main/appcast.xml` and published GitHub release on **2026-10-13**:
+Verified against the published `main/appcast.xml`, source release metadata, and both GitHub Releases:
 
-- product: Doit Then
-- latest version: **1.0.17**
-- latest build: **31**
-- minimum macOS: **14.0**
-- architecture requirement: **arm64**
-- release asset: `DoItThen-1.0.17.zip`
-- release tag referenced by appcast: `v1.0.17`
-- release ZIP SHA-256: `f5b004209a1fad2a8f305149f391d7ef70ad8a0a6d6c907988826ba2d36328b5`
-- signed Sparkle enclosure matches the `v1.0.17` GitHub Release ZIP; source repository's published version is likewise **1.0.17 (31)**.
+- Product: **Doit Then**.
+- Latest published version: **1.0.26**, build **40**; tag `v1.0.26`.
+- Source release commit: `bbbf04dc4bd0a2cb59560619a58158b34d19e40e`; the source `main` HEAD later advances to documentation-only commits.
+- Minimum macOS: **14.0**; hardware requirement: **arm64** in the Sparkle feed.
+- Release asset: `DoItThen-1.0.26.zip`, **8,152,007 bytes** in both source and updates GitHub Releases.
+- Release ZIP SHA-256 recorded by the app's verified release handoff: `fad69984084a067a90db6f132f352ac252a1d7339e7e166177a29f7881884c07`.
+- Signed Sparkle feed: `https://raw.githubusercontent.com/TheCuriousProcrastinator/DoItThen-Updates/main/appcast.xml`; it advertises **1.0.26 / build 40** and the updates-repo v1.0.26 download URL.
+- Latest verified updates repository `main` HEAD **before this documentation-only change**: `2dd1737e77854249c90f820b1b378cbe6b422073`. Fetch the new HEAD after this commit.
+- Companion Chrome extension version **0.2.1** has been submitted for Chrome Web Store review; approval/publication remains unverified. The user reported production version 0.2.
+- Earlier references to v1.0.17 below or in previous handoff revisions are **historical**. Do not mistake the old October 13 snapshot for the current release.
+- No GitHub Actions workflows exist in this updates repository, and releases do not require automatic CI. This documentation-only commit does **not** modify the appcast or release assets.
 
 ## Repository role
 
