@@ -3,19 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.26</title>
-            <pubDate>Sun, 18 Oct 2026 19:11:28 -0400</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <title>1.0.27</title>
+            <pubDate>Mon, 19 Oct 2026 10:14:59 -0400</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.26
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.27
 
-- Match the Chrome extension to Doit Then's actual theme colors.
-- Automatically synchronize selected light and dark themes.
-- Preserve compatibility with older Chrome extension versions.
+- Show webpage links shared from Safari to Apple Reminders.
+- Display rich reminder URL attachments automatically after syncing.
+- Preserve existing reminder links and normal editing behavior.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.26/DoItThen-1.0.26.zip" length="8152007" type="application/octet-stream" sparkle:edSignature="sDtn2XNi1ZjxxYfk+FS+e49X7W+p/lRqcxu6UM0nkCyZyZ7Y6kN9Gb9XHnRTvs3rhbf0Ku4qW/4yHGDgBIT7CQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.27/DoItThen-1.0.27.zip" length="8156077" type="application/octet-stream" sparkle:edSignature="vs7rg63bnGJ1j29G3dLvattVIQ9+4aK/FeTbj//LuNOSsXYIUDToiEOHMRyGoGVrHxyJocZ/w/nBlAdTuaw4BA=="/>
         </item>
     </channel>
 </rss>
