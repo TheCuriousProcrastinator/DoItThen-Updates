@@ -3,24 +3,25 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.28</title>
-            <pubDate>Mon, 19 Oct 2026 18:29:28 -0400</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <title>1.0.29</title>
+            <pubDate>Thu, 22 Oct 2026 07:28:50 -0400</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.28
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.29
 
-- Unified the selected-date accent and primary-action colors across all six themes.
-- Improved contrast for buttons, date selection, and Today highlights.
-- Improved task date-menu hover visibility.
-- Added Remove Date to the task context-menu calendar when a date is set.
-- Aligned date removal visibility in the task editor and Quick Add.
-- Preserved Apple Reminders, Calendar, and Chrome integration.
+- Added One-way and Two-way options to Calendar Mirror.
+- Simplified Calendar Mirror setup and calendar selection.
+- Added customizable Quick Add global keyboard shortcuts with live recording.
+- Added Reset to restore the default Control-Command-A shortcut.
+- Improved Escape dismissal for the up-to-date notification.
 
-Companion Chrome extension update: 0.2.3.
+Two-way Calendar Mirror is optional. Reverse changes apply only
+to supported managed events. Recurring events and deletions remain
+source-controlled.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.28/DoItThen-1.0.28.zip" length="8162982" type="application/octet-stream" sparkle:edSignature="3L+A27d1KMnefKutSWLUX/CioUA2LCJZ0FXfV273c3yf99eZEX3iFWBCUCWtw1RrMbcGohp1T+yG5neU1SxjAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.29/DoItThen-1.0.29.zip" length="8420041" type="application/octet-stream" sparkle:edSignature="vrFyAR+Re/QLSalChckLiO/C6ryiOQyU77TE5ItP6kuh+0S+iWkJukiSzZkle0N2K+2riBrTgYD3bG4PCZ4AAA=="/>
         </item>
     </channel>
 </rss>
