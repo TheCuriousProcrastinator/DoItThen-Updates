@@ -3,25 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.30</title>
-            <pubDate>Thu, 29 Oct 2026 20:17:31 -0400</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <title>1.0.31</title>
+            <pubDate>Fri, 30 Oct 2026 13:02:54 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.30
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.31
 
-- Added checklist templates, custom templates, and Sample Workweek.
-- Improved planner sections and cross-Mac synchronization.
-- Improved undo and redo for Reminders lists.
-- Added guarded two-way Calendar Mirror synchronization.
-- Added best-effort automatic removal of managed iCloud copies when their Google originals disappear.
-- Added deletion verification periods of 2 minutes, 2 hours, and 10 hours depending on the extent of missing source events.
-- Improved synchronization recovery, ownership verification, and interrupted-write protection.
-
-Automatic removal remains best-effort. Prolonged calendar-provider outages may still cause unintended deletion of managed copies.
+- Developer ID signing and Apple notarization for macOS distribution.
+- Improved recovery when an existing license is temporarily inaccessible in Keychain.
+- Existing license activation and settings preserved.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.30/DoItThen-1.0.30.zip" length="9002937" type="application/octet-stream" sparkle:edSignature="4iA/74y83mTPV1CxLfNQD1eB7KwoXp4IADkIbK0ejJCSojuOe4sG7PhgA6nQudH7/F46mppmQTzSp9WfeAfYCQ=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.31/DoItThen-1.0.31.zip" length="9083844" type="application/octet-stream" sparkle:edSignature="MfXEb+E5zrErOnYSmYIGbFN+AHUNpvSErS+eoxcCH8bdi4b+EK3GTSxV/8zq9v89wFthpEa/NTp+3B9whcTNCw=="/>
         </item>
     </channel>
 </rss>
