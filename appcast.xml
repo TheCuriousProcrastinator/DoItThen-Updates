@@ -3,25 +3,25 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.29</title>
-            <pubDate>Thu, 22 Oct 2026 07:28:50 -0400</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+            <title>1.0.30</title>
+            <pubDate>Thu, 29 Oct 2026 20:17:31 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.29
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.30
 
-- Added One-way and Two-way options to Calendar Mirror.
-- Simplified Calendar Mirror setup and calendar selection.
-- Added customizable Quick Add global keyboard shortcuts with live recording.
-- Added Reset to restore the default Control-Command-A shortcut.
-- Improved Escape dismissal for the up-to-date notification.
+- Added checklist templates, custom templates, and Sample Workweek.
+- Improved planner sections and cross-Mac synchronization.
+- Improved undo and redo for Reminders lists.
+- Added guarded two-way Calendar Mirror synchronization.
+- Added best-effort automatic removal of managed iCloud copies when their Google originals disappear.
+- Added deletion verification periods of 2 minutes, 2 hours, and 10 hours depending on the extent of missing source events.
+- Improved synchronization recovery, ownership verification, and interrupted-write protection.
 
-Two-way Calendar Mirror is optional. Reverse changes apply only
-to supported managed events. Recurring events and deletions remain
-source-controlled.
+Automatic removal remains best-effort. Prolonged calendar-provider outages may still cause unintended deletion of managed copies.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.29/DoItThen-1.0.29.zip" length="8420041" type="application/octet-stream" sparkle:edSignature="vrFyAR+Re/QLSalChckLiO/C6ryiOQyU77TE5ItP6kuh+0S+iWkJukiSzZkle0N2K+2riBrTgYD3bG4PCZ4AAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.30/DoItThen-1.0.30.zip" length="9002937" type="application/octet-stream" sparkle:edSignature="4iA/74y83mTPV1CxLfNQD1eB7KwoXp4IADkIbK0ejJCSojuOe4sG7PhgA6nQudH7/F46mppmQTzSp9WfeAfYCQ=="/>
         </item>
     </channel>
 </rss>
