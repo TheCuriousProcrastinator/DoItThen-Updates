@@ -3,19 +3,20 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.31</title>
-            <pubDate>Fri, 30 Oct 2026 13:02:54 -0400</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <title>1.0.32</title>
+            <pubDate>Sun, 08 Nov 2026 14:06:57 -0500</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.31
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.32
 
-- Developer ID signing and Apple notarization for macOS distribution.
-- Improved recovery when an existing license is temporarily inaccessible in Keychain.
-- Existing license activation and settings preserved.
+- Synchronize sidebar organization across Macs using CloudKit.
+- Keep groups, Reminders list membership, and ordering consistent.
+- Add synchronization controls and safeguards for conflicts and interrupted operations.
+- Improve background synchronization with notification registration and a 30-second fallback.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.31/DoItThen-1.0.31.zip" length="9083844" type="application/octet-stream" sparkle:edSignature="MfXEb+E5zrErOnYSmYIGbFN+AHUNpvSErS+eoxcCH8bdi4b+EK3GTSxV/8zq9v89wFthpEa/NTp+3B9whcTNCw=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.32/DoItThen-1.0.32.zip" length="9367495" type="application/octet-stream" sparkle:edSignature="xOniz3fwyV+xRSDpB+O51V91h9JppXFoFEejTZMxpDO3HjjzBwiwt/82FQHkF9DlJVq7Hb/akYktP1dgx590AA=="/>
         </item>
     </channel>
 </rss>
