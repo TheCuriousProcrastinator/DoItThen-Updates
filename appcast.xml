@@ -3,21 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.33</title>
-            <pubDate>Sun, 08 Nov 2026 19:02:08 -0500</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <title>1.0.34</title>
+            <pubDate>Sun, 08 Nov 2026 20:29:58 -0500</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.33
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.34
 
-- Synchronize individual calendar event colors through private CloudKit.
-- Support color updates and resets.
-- Preserve pending changes during synchronization failures.
-- Correct Development and Production CloudKit signing.
-- Preserve existing group, list, section, and calendar behavior.
+- Fix section and task drag-and-drop placement
+- Consolidate Doit Then development handoff
+- Update handoff for 1.0.33 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.33/DoItThen-1.0.33.zip" length="9447234" type="application/octet-stream" sparkle:edSignature="Ufb/NVXDQxaD78X2hbavGCKVa7xJauwLwuuKLC+1KGFoXEMDxtot/ojhcHC31T13wamQdGzvKmaMjrK88JMRAA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.34/DoItThen-1.0.34.zip" length="9470656" type="application/octet-stream" sparkle:edSignature="3Ux8FLDjjfAbnObCefBawFEPnyxXEYEw5INIuSEsg/WHbngd+P9paNoRfWTgcJXj6viiAiOHzzVMqGNbEx3lDw=="/>
         </item>
     </channel>
 </rss>
