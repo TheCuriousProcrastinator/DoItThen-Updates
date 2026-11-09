@@ -3,21 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.35</title>
-            <pubDate>Mon, 09 Nov 2026 13:11:20 -0500</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            <title>1.0.36</title>
+            <pubDate>Mon, 09 Nov 2026 15:27:10 -0500</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.35
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.36
 
-- Record successful cross-Mac organization sync validation
-- Fix production Dock badge and organization identity matching
-- Fix production UI regressions and improve organization sync diagnostics
-- Finalize v1.0.34 release handoff
-- Update handoff for 1.0.34 release
+- Day and Week calendars automatically open around the current time.
+- Changing dates and returning to Today keeps the timeline positioned at the current clock time.
+- Improved Day and Week navigation to prevent overlapping transitions.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.35/DoItThen-1.0.35.zip" length="9483148" type="application/octet-stream" sparkle:edSignature="+EDU2AAnDcqkx8qCwb9rDw20oIb+NxyzlzwaVU9j4kqmnpYvh86sUnk0t0Ul76BS24I1wTUjnX7u4e+8B7S5AA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.36/DoItThen-1.0.36.zip" length="9486377" type="application/octet-stream" sparkle:edSignature="+9tqY7jCWMEGw40oS/j9z8hcicIwZr6To3SEaQ3uFZIDD6smJ0Fu5C4wlMpFz/96wEYljz9iI/dCyXgdTMgMBA=="/>
         </item>
     </channel>
 </rss>
