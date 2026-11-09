@@ -3,8 +3,8 @@
 
 - Repository: `TheCuriousProcrastinator/DoItThen-Updates`; local working branch: `main`.
 - Version data below is read from the **Git index** (the files staged for commit).
-- Source `appcast.xml`: version `1.0.34`, build `48`.
-- GitHub publication: Published GitHub release `v1.0.34` (reported by GitHub API). Other distribution channels are **unverified**.
+- Source `appcast.xml`: version `1.0.35`, build `49`.
+- GitHub publication: Published GitHub release `v1.0.35` (reported by GitHub API). Other distribution channels are **unverified**.
 - This section does **not** establish local build success, manual QA, App Store/Chrome Web Store approval, notarization, live website deployment, or release-asset integrity.
 - The narrative below maintains architecture, decisions, issues and test evidence. Its older status and version claims are **historical** unless explicitly reconciled with this section.
 - Before executable changes, inspect the actual checkout and validate the **exact files** on the real Mac. No automatic GitHub Actions.

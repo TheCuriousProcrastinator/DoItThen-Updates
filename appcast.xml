@@ -3,19 +3,21 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.34</title>
-            <pubDate>Sun, 08 Nov 2026 20:29:58 -0500</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <title>1.0.35</title>
+            <pubDate>Mon, 09 Nov 2026 13:11:20 -0500</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.34
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.35
 
-- Fix section and task drag-and-drop placement
-- Consolidate Doit Then development handoff
-- Update handoff for 1.0.33 release
+- Record successful cross-Mac organization sync validation
+- Fix production Dock badge and organization identity matching
+- Fix production UI regressions and improve organization sync diagnostics
+- Finalize v1.0.34 release handoff
+- Update handoff for 1.0.34 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.34/DoItThen-1.0.34.zip" length="9470656" type="application/octet-stream" sparkle:edSignature="3Ux8FLDjjfAbnObCefBawFEPnyxXEYEw5INIuSEsg/WHbngd+P9paNoRfWTgcJXj6viiAiOHzzVMqGNbEx3lDw=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.35/DoItThen-1.0.35.zip" length="9483148" type="application/octet-stream" sparkle:edSignature="+EDU2AAnDcqkx8qCwb9rDw20oIb+NxyzlzwaVU9j4kqmnpYvh86sUnk0t0Ul76BS24I1wTUjnX7u4e+8B7S5AA=="/>
         </item>
     </channel>
 </rss>
