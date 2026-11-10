@@ -3,19 +3,19 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.36</title>
-            <pubDate>Mon, 09 Nov 2026 15:27:10 -0500</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+            <title>1.0.37</title>
+            <pubDate>Mon, 09 Nov 2026 20:21:15 -0500</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.36
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.37
 
-- Day and Week calendars automatically open around the current time.
-- Changing dates and returning to Today keeps the timeline positioned at the current clock time.
-- Improved Day and Week navigation to prevent overlapping transitions.
+- Add guarded iCloud organization replacement
+- Fix Month and Year calendar navigation transitions
+- Update handoff for 1.0.36 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.36/DoItThen-1.0.36.zip" length="9486377" type="application/octet-stream" sparkle:edSignature="+9tqY7jCWMEGw40oS/j9z8hcicIwZr6To3SEaQ3uFZIDD6smJ0Fu5C4wlMpFz/96wEYljz9iI/dCyXgdTMgMBA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.37/DoItThen-1.0.37.zip" length="9531946" type="application/octet-stream" sparkle:edSignature="riYepY6UCv3oVXBj9/6+V5hLdUY2A7bC4KDbKvcMZ4wO+MpNC8LdBTcVlY0gv4yZpzVIKePu+hMco7r9+y6FCg=="/>
         </item>
     </channel>
 </rss>
