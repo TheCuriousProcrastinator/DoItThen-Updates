@@ -3,20 +3,20 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.38</title>
-            <pubDate>Tue, 10 Nov 2026 15:48:59 -0500</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <title>1.0.39</title>
+            <pubDate>Fri, 13 Nov 2026 16:04:30 -0500</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.38
+            <description sparkle:format="markdown"><![CDATA[# Doit Then 1.0.39
 
-- Preserve legacy Lemon Squeezy license compatibility
-- Validate Doit Then test and live licensing products
-- Reconcile handoff after 1.0.37 release
-- Update handoff for 1.0.37 release
+- Allow existing Apple notarization Keychain profile
+- Fit all seven days in Week view
+- Finalize v1.0.38 licensing handoff
+- Update handoff for 1.0.38 release
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.38/DoItThen-1.0.38.zip" length="9533178" type="application/octet-stream" sparkle:edSignature="Preayz5Rwq7FIzNTn+OETD2sORSmVF4UXIU9mJ+3YUXvTXcjlp6bfhiFRscw8mEEQiC4LgJI+kO2BS5bjFh4AA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.39/DoItThen-1.0.39.zip" length="9532940" type="application/octet-stream" sparkle:edSignature="tfmM3xjteS9mZ9idrVdNMjc73F3I2DBLvXnwP5H/vIM7Q/sB/PcP2ZH3kDHRgITFJVEsW3YRHljkrMdY5MTYBw=="/>
         </item>
     </channel>
 </rss>
