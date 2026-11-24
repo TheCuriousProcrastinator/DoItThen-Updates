@@ -3,20 +3,21 @@
     <channel>
         <title>Doit Then</title>
         <item>
-            <title>1.0.43</title>
-            <pubDate>Mon, 23 Nov 2026 18:47:37 -0500</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+            <title>1.0.44</title>
+            <pubDate>Mon, 23 Nov 2026 20:04:42 -0500</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[Improvements:
 
-- Smoother sidebar opening and closing.
-- Tasks remain visible during sidebar transitions.
-- More efficient Week calendar rendering.
-- Cleaner separation between navigation and tasks.
+- Cleaner, more compact window header.
+- Sidebar toggle moves naturally when hiding and revealing navigation.
+- Sidebar background extends to the top of the window.
+- Native macOS window controls remain accessible.
+- Sidebar toggle follows the selected appearance theme.
 ]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.43/DoItThen-1.0.43.zip" length="9749316" type="application/octet-stream" sparkle:edSignature="lO45wpr5EDcpY0r/edmXQ4xe63hATf6EFco8FQiEJJ0i8R4LhNqBl4HCSznYuTj0/78eYR9ShvBDiEUg/9yODA=="/>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/DoItThen-Updates/releases/download/v1.0.44/DoItThen-1.0.44.zip" length="9877722" type="application/octet-stream" sparkle:edSignature="fw2+1ZuwQtpqhOgPHSPj705+ksYXwMWWMAWL1Unquh7VDx0leAdsPsdz/uRtnUC1QFGps3VlU4lgSzWDFSidAQ=="/>
         </item>
     </channel>
 </rss>
